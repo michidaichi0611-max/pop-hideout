@@ -1,0 +1,15 @@
+{
+  "name": "ポップ・ハイドアウト",
+  "short_name": "ハイドアウト",
+  "description": "隠れた敵を見つけて早撃ち！縦画面・片手操作の西部劇シューティング（試作）",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#2a1a2e",
+  "theme_color": "#2a1a2e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

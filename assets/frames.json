@@ -1,0 +1,214 @@
+{
+ "enemy_red_idle": {
+  "scale": 0.617,
+  "align": "top"
+ },
+ "enemy_red_look": {
+  "scale": 0.613,
+  "align": "top"
+ },
+ "enemy_red_blink": {
+  "scale": 0.617,
+  "align": "top"
+ },
+ "enemy_red_surprised": {
+  "scale": 0.624,
+  "align": "top"
+ },
+ "enemy_red_taunt": {
+  "scale": 0.651,
+  "align": "top"
+ },
+ "enemy_red_run1": {
+  "scale": 0.746,
+  "align": "bottom"
+ },
+ "enemy_red_run2": {
+  "scale": 0.74,
+  "align": "bottom"
+ },
+ "enemy_red_run3": {
+  "scale": 0.75,
+  "align": "bottom"
+ },
+ "enemy_green_idle": {
+  "scale": 0.621,
+  "align": "top"
+ },
+ "enemy_green_look": {
+  "scale": 0.618,
+  "align": "top"
+ },
+ "enemy_green_blink": {
+  "scale": 0.621,
+  "align": "top"
+ },
+ "enemy_green_surprised": {
+  "scale": 0.631,
+  "align": "top"
+ },
+ "enemy_green_taunt": {
+  "scale": 0.71,
+  "align": "top"
+ },
+ "enemy_green_run1": {
+  "scale": 0.719,
+  "align": "bottom"
+ },
+ "enemy_green_run2": {
+  "scale": 0.723,
+  "align": "bottom"
+ },
+ "enemy_green_run3": {
+  "scale": 0.723,
+  "align": "bottom"
+ },
+ "enemy_blue_idle": {
+  "scale": 0.883,
+  "align": "top"
+ },
+ "enemy_blue_look": {
+  "scale": 0.883,
+  "align": "top"
+ },
+ "enemy_blue_blink": {
+  "scale": 0.879,
+  "align": "top"
+ },
+ "enemy_blue_surprised": {
+  "scale": 0.879,
+  "align": "top"
+ },
+ "enemy_blue_taunt": {
+  "scale": 0.875,
+  "align": "top"
+ },
+ "enemy_blue_run1": {
+  "scale": 0.908,
+  "align": "bottom"
+ },
+ "enemy_blue_run2": {
+  "scale": 0.904,
+  "align": "bottom"
+ },
+ "enemy_blue_run3": {
+  "scale": 0.892,
+  "align": "bottom"
+ },
+ "enemy_boss_idle": {
+  "scale": 0.482,
+  "align": "top"
+ },
+ "enemy_boss_look": {
+  "scale": 0.479,
+  "align": "top"
+ },
+ "enemy_boss_blink": {
+  "scale": 0.496,
+  "align": "top"
+ },
+ "enemy_boss_surprised": {
+  "scale": 0.496,
+  "align": "top"
+ },
+ "enemy_boss_taunt": {
+  "scale": 0.727,
+  "align": "top"
+ },
+ "enemy_boss_run1": {
+  "scale": 0.681,
+  "align": "bottom"
+ },
+ "enemy_boss_run2": {
+  "scale": 0.691,
+  "align": "bottom"
+ },
+ "enemy_boss_run3": {
+  "scale": 0.651,
+  "align": "bottom"
+ },
+ "enemy_gold_idle": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_gold_look": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_gold_blink": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_gold_surprised": {
+  "scale": 0.995,
+  "align": "bottom"
+ },
+ "enemy_gold_taunt": {
+  "scale": 1.014,
+  "align": "bottom"
+ },
+ "enemy_gold_run1": {
+  "scale": 1.043,
+  "align": "bottom"
+ },
+ "enemy_gold_run2": {
+  "scale": 0.986,
+  "align": "bottom"
+ },
+ "enemy_gold_run3": {
+  "scale": 1.009,
+  "align": "bottom"
+ },
+ "enemy_bomber_idle": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_bomber_look": {
+  "scale": 0.991,
+  "align": "bottom"
+ },
+ "enemy_bomber_blink": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_bomber_surprised": {
+  "scale": 1.009,
+  "align": "bottom"
+ },
+ "enemy_bomber_taunt": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_bomber_run1": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_bomber_run2": {
+  "scale": 0.945,
+  "align": "bottom"
+ },
+ "enemy_bomber_run3": {
+  "scale": 0.991,
+  "align": "bottom"
+ },
+ "enemy_jumper_crouch": {
+  "scale": 0.759,
+  "align": "bottom"
+ },
+ "enemy_jumper_jump": {
+  "scale": 1.0,
+  "align": "bottom"
+ },
+ "enemy_jumper_air": {
+  "scale": 0.941,
+  "align": "bottom"
+ },
+ "enemy_jumper_fall": {
+  "scale": 0.895,
+  "align": "bottom"
+ },
+ "enemy_jumper_land": {
+  "scale": 0.618,
+  "align": "bottom"
+ }
+}
